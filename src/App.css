@@ -1,0 +1,35 @@
+.App {
+  border: 1px solid #3d3d3d;
+  margin: 15px 20px 60px 30px;
+  padding: 25px 15px;
+  display: flex; /* Enable flexbox for the App container */
+  flex-direction: column; /* Arrange items vertically */
+  align-items: center; /* Center items horizontally */
+}
+
+.to-do-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px; /* Adjust width as needed */
+}
+
+.to-do-container ul li {
+  width: 190px;
+  overflow-wrap: break-word;
+  list-style-type: "👉";
+  cursor: pointer;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.trash {
+  cursor: pointer;
+}
