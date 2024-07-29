@@ -10,7 +10,7 @@ This is a simple To-Do List project built with React. It allows you to create, m
 
 **Try it out:**
 
-[https://to-do-list-gamma-pied-33.vercel.app](https://to-do-list-gamma-pied-33.vercel.app)
+[TO-DO-LIST](https://to-do-list-gamma-pied-33.vercel.app)
 
 **Code:**
 
